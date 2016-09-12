@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Shuyi
+   last: Wang
+email: sw3237@nyu.edu
+leaderboard: Sophie8
